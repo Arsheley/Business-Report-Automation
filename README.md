@@ -61,3 +61,14 @@ python main.py
 - Add cloud storage for reports  
 - Improve automation scheduling system  # Business-Report-Automation
 Python automation project that analyzes sales data, generates charts, creates PDF reports, sends reports via email, and logs every execution.
+
+## Screenshots
+
+### Business Sales Analysis Report
+![Business Report](Screenshot%202026-07-04%20160950.png)
+
+### Report Summary
+![Report Summary](Screenshot%202026-07-04%20161207.png)
+
+### Report Charts
+![Report Charts](Screenshot%202026-07-04%20161635.png)
